@@ -1,0 +1,11 @@
+{
+  "id": "delete-image-links",
+  "name": "Delete Image Links",
+  "description": "delete images in notes",
+  "author": "weiyoun",
+
+  "authorUrl": "weiyoun.com",
+
+  "minAppVersion": "0.11.0",
+  "version": "0.0.1"
+}
